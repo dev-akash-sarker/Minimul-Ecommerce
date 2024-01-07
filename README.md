@@ -2,13 +2,9 @@
 
 <h2>About the project</h2>
 
-<p>This is a minimalist e-commerce website built with React and CSS. This
-website features a modern and intuitive design, with easy-to-use navigation and a
-simple shopping experience that puts the focus on the products.</p>
+<p>This is a minimalist e-commerce website built with React and CSS. This website has a modern and user-friendly design, with straightforward navigation and a purchasing experience that focuses on the items.</p>
 
-<p>Credits for the design goes to <a href='https://github.com/Abderraouf-Rahmani'>Abderraouf</a></p>
-
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Ecommerce Demo</a>
+👉 Live Demo: <a href='https://minimul-ecommerce.vercel.app/'>Ecommerce Demo</a>
 
 <h3>Build with:</h3>
 
@@ -24,6 +20,7 @@ simple shopping experience that puts the focus on the products.</p>
 </div>
 
 <br><br>
+
 <h3 align='center'>Categories Page 👇</h3>
 
 <div align='center'>
@@ -43,7 +40,3 @@ simple shopping experience that puts the focus on the products.</p>
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/105128267/213868718-6760d6de-9060-406f-816d-f9b317bb0e0c.png'/>
 </div>
-
-
-
-
