@@ -1,4 +1,4 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/105128267/224688338-8f1f28b7-029b-4ed7-a567-86de0c44ff42.png'/></div>
+<div align='center'><img src='https://raw.githubusercontent.com/dev-akash-sarker/Minimul-Ecommerce/master/src/img/github/a.png'/></div>
 
 <h2>About the project</h2>
 
