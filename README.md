@@ -16,7 +16,7 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868640-e3421f0a-bb10-4352-82a1-1bda4df821e9.png'/>
+<img src='https://raw.githubusercontent.com/dev-akash-sarker/Minimul-Ecommerce/master/src/img/github/b.png'/>
 </div>
 
 <br><br>
@@ -24,14 +24,14 @@
 <h3 align='center'>Categories Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868668-55c03494-0835-43e0-9cb1-429b9a243a65.png'/>
+<img src='https://raw.githubusercontent.com/dev-akash-sarker/Minimul-Ecommerce/master/src/img/github/c.png'/>
 
 <br>
 <br>
 <h3 align='center'>Product Page 🎁</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868690-5737cead-a56e-4500-88ff-d182426ce072.png'/>
+<img src='https://user-images.githubusercontent.com/105128267/213868690-5737cead-a56e-4500-88ff-d182426ce072.png'/>  ddd
 
 <br>
 <br>
